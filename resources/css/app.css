@@ -1,0 +1,32 @@
+body {
+    background-color: #f4f3f0;
+}
+
+.index-column {
+    width: 5%;
+}
+
+.task-column {
+    width: 70%;
+}
+
+.actions form {
+    display: inline-block;
+}
+
+.navbar {
+    margin-bottom: 50px;
+}
+
+.strike-through {
+    text-decoration: line-through;
+}
+
+.table {
+    border: 1px solid grey;
+    background-color: white;
+}
+
+.footer {
+    margin-top: 100px;
+}
